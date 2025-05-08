@@ -1,8 +1,8 @@
 ## Bem-vindo ao meu GitHub! 👋
-[![GabrielEduardoFarinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldembergDev&show_icons=true&theme=dark&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaldembergDev&show_icons=true&theme=dark&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldembergDev&theme=dark&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
-## Olá, me chamo Waldemberg Pereira. Sou estudante de Ciência da Computação e desenvolvedor.
+## Olá, me chamo Waldemberg Pereira. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando se estudante de Ciência da Computação e desenvolvedor.
 
 ## 🛠 Habilidades e Tecnologias
 <div style="display: inline_block"><br>
@@ -14,8 +14,8 @@
 </div>
 
 ## 🌱 O que estou aprendendo?
-No momento, estou revisando conceitos essenciais de programação durante minhas férias da faculdade. Meu foco é aprimorar ainda mais minhas habilidades em desenvolvimento front-end e explorar 
-tecnologias como React e React Native.
+No momento estou revisando conceitos de programação distribuida e Machine Learning. Meu foco é aprimorar ainda mais minhas habilidades em desenvolvimento back-end e front-end e explorar 
+tecnologias como React.
 
 ## 📫 Entre em contato
 - Email: **waldemberg.pereira@outlook.com**
