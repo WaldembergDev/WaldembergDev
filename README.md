@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor apaixonado por resolver problemas complexos através de código. Com uma base sólida em **Análise e Desenvolvimento de Sistemas** e **Sistemas para Internet**, atualmente estou expandindo meus horizontes acadêmicos e técnicos com uma **Pós-graduação em Inteligência Artificial e Aprendizado de Máquina**.
 
-Meu foco principal é o desenvolvimento Back-end com **Django**, criando aplicações robustas e escaláveis utilizando **PostgreSQL**, **Redis** e **Celery** para processamento distribuído, além de automação de processos e Data Science com **LangChain**.
+Meu foco principal é o desenvolvimento Back-end com **Django**, criando aplicações robustas e escaláveis utilizando **PostgreSQL**, **Redis** e **Celery** para processamento distribuído, além de automação de processos e desenvolvimento de agentes de IA com **Agno**.
 
 ---
 
@@ -33,9 +33,10 @@ Meu foco principal é o desenvolvimento Back-end com **Django**, criando aplica�
 ### 🐍 Backend, Data Science & IA
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-333333?style=for-the-badge)
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -45,23 +46,24 @@ Meu foco principal é o desenvolvimento Back-end com **Django**, criando aplica�
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 💻 Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTMX](https://img.shields.io/badge/HTMX-%23092E20.svg?style=for-the-badge&logo=htmx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTMX](https://img.shields.io/badge/HTMX-%23092E20.svg?style=for-the-badge&logo=htmx&logoColor=white)
 
 ### ⚙️ DevOps, OS & Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 
 ---
 
 ## 🌱 O que estou estudando agora?
 
-- 🦜🔗 **IA Generativa & LLMs:** Construindo aplicações com **LangChain** para orquestração de modelos de linguagem.
+- 🦜🔗 **IA Generativa & LLMs:** Construindo agentes e aplicações com **Agno** para orquestração de modelos de linguagem.
 - ⚛️ **Desenvolvimento Moderno:** Criando interfaces dinâmicas e SPAs com **React**.
 - 📡 **Programação Distribuída:** Implementando filas de tarefas assíncronas de alta performance com **Celery** e **Redis**.
 - 🤖 **Automação:** Criando scripts eficientes com **PyAutoGUI** e **Selenium**.
